@@ -1,4 +1,11 @@
 {
+  "latestVersion": "v1",
+  "availableVersions": [
+    {
+      "name": "v1",
+      "branch": "main"
+    }
+  ],
   "docSearch": {
     "appId": "FQ0DQ6MA3C",
     "apiKey": "8264730bab8a9b7fa6a0c85761d7a3fe",
